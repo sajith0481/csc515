@@ -27,4 +27,3 @@ if image is None:
     # Wait for key press to close windows
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-
